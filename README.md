@@ -56,6 +56,40 @@ Off-Page SEO
 
 ---
 
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# Sample data for organic keywords growth over 1 year
+months = pd.date_range(start="2024-01", periods=12, freq="M")
+keywords = {
+    "Fiance Visa": [150, 160, 170, 180, 200, 220, 240, 260, 280, 300, 320, 350],
+    "Spousal Visa": [100, 110, 115, 130, 150, 170, 190, 210, 230, 250, 270, 300],
+    "Green Card": [200, 210, 220, 230, 250, 270, 300, 330, 360, 390, 420, 450]
+}
+
+df = pd.DataFrame(keywords, index=months)
+
+# Plotting
+plt.figure(figsize=(10, 6))
+for keyword, values in keywords.items():
+    plt.plot(months, values, marker="o", label=keyword)
+
+plt.title("Organic Keyword Growth (2024)", fontsize=14)
+plt.xlabel("Month", fontsize=12)
+plt.ylabel("Number of Ranking Keywords", fontsize=12)
+plt.legend()
+plt.grid(True, linestyle="--", alpha=0.6)
+plt.tight_layout()
+
+# Save the image
+image_path = "/mnt/data/organic_keywords_growth.png"
+plt.savefig(image_path)
+
+image_path
+
+
+---
+
 ### Let’s Connect
 I’m open to full-time roles, consulting projects, or collaborations where I can help brands grow
 through smart, sustainable SEO. Let’s make something that lasts.
