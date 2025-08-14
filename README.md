@@ -28,15 +28,15 @@ My work blends **technical SEO**, **content strategy**, and **data-driven optimi
 **Analytics & Tools**
 - Google Search Console, Google Analytics (GA4)
 - SEMrush, Ahrefs, Screaming Frog
-- SurferSEO, Clearscope
-- Sprout Social, WordPress, Webflow, HubSpot CMS
+- SurferSEO, Jasper AI, Chatgpt
+- Sprout Social, WordPress, Webflow
 
 ---
 
 ## Career Highlight – Boundless Immigration & RapidVisa
 
-**Role:** SEO Specialist → Content & SEO Lead  
-**Duration:** 2016 – 2025
+**Role:** SEO Specialist
+**Duration:** April 1, 2016 – July 15, 2025
 
 ### Achievements:
 - **100%+ Growth** RapidVisa increased in organic sessions over 4 years through targeted keyword strategies.
