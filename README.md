@@ -64,6 +64,6 @@ The chart below illustrates steady growth in high-value keywords:
 
 I’m open to full-time roles, consulting, or collaboration opportunities to help brands grow through smart, sustainable SEO.
 
-📧 **Email:** ulysisc@gmail.com 
-🔗 **LinkedIn:** Ulysis M. Cababan](https://www.linkedin.com/in/ulysis-cababan-81b99515  
+📧 **Email:** [ulysisc@gmail.com] 
+🔗 **LinkedIn:** [Ulysis M. Cababan](https://www.linkedin.com/in/ulysis-cababan-81b99515  
 🌐 **Portfolio:** [https://page-bloom.b12sites.com/](https://page-bloom.b12sites.com/)
