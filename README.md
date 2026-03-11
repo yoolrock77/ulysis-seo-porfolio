@@ -1,69 +1,141 @@
+---
+
 # Ulysis M. Cababan – SEO Specialist & Digital Strategist
 
-📍 **Philippines** | 10+ Years of SEO & Content Strategy Experience  
+📍 **Philippines** | 10+ Years of SEO & Digital Marketing Experience
 🔗 [LinkedIn](https://www.linkedin.com/in/ulysis-cababan-81b99515) | [Portfolio Website](https://page-bloom.b12sites.com/)
 
 ---
 
-## About Me
+# About Me
 
-I’m an SEO Specialist with over a decade of experience helping mission-driven companies grow their organic visibility and engagement.  
-My work blends **technical SEO**, **content strategy**, and **data-driven optimization** with hands-on **social media management** to create sustainable, measurable results.
+I’m an SEO Specialist with over a decade of experience helping companies grow their **organic visibility, traffic, and search rankings**.
 
----
+My work combines **technical SEO, content strategy, analytics, and digital marketing execution** to deliver measurable growth in search performance and audience engagement.
 
-## Key Skills
-
-**SEO & Content**
-- Keyword research, mapping, and topic clustering
-- On-page optimization (metadata, headers, internal linking)
-- Technical SEO audits, schema markup, site health fixes
-- Link building strategies and competitor backlink analysis
-
-**Social Media Management**
-- Managed **RapidVisa** and **Boundless Immigration** profiles using **Sprout Social**
-- Increased engagement through strategic content calendars and audience insights
-- Coordinated cross-platform campaigns aligned with SEO content
-
-**Analytics & Tools**
-- Google Search Console, Google Analytics (GA4)
-- SEMrush, Ahrefs, Screaming Frog
-- SurferSEO, Jasper AI, Chatgpt
-- Sprout Social, WordPress, Webflow
+I focus on building **long-term organic growth strategies**, optimizing website performance, and aligning SEO with broader marketing initiatives.
 
 ---
 
-## Career Highlight – Boundless Immigration & RapidVisa
+# Key Skills
+
+### SEO & Content
+
+* Keyword research, mapping, and topic clustering
+* On-page optimization (metadata, headers, internal linking)
+* Technical SEO audits and site health improvements
+* Schema markup implementation
+* Link building strategies and competitor backlink analysis
+
+### Digital Marketing
+
+* Content marketing strategy
+* Blog and website content optimization
+* Email marketing campaigns
+* Social media campaign management
+* AI-assisted content creation
+
+### Analytics & Tools
+
+* Google Search Console
+* Google Analytics (GA4)
+* SEMrush
+* Ahrefs
+* Screaming Frog
+* SurferSEO
+* Jasper AI
+* ChatGPT
+* Sprout Social
+* WordPress
+* Webflow
+* HubSpot
+
+---
+
+# Current Work – Vodigy Networks
+
+🌐 **Website:** [https://vodigynetworks.com](https://vodigynetworks.com)
+
+Currently supporting SEO, content marketing, and digital marketing strategy to improve organic growth and search visibility.
+
+### Key Contributions
+
+* Develop optimization strategies to increase the company’s **search engine rankings**
+* Research and implement SEO keywords across the website and marketing materials
+* Set measurable goals to track improvements in marketing performance
+* Monitor daily SEO metrics and campaign performance
+* Collaborate with marketing teams to align SEO strategy with business goals
+* Write optimized content using **AI tools** for blog posts, landing pages, and metadata
+* Update website content and internal linking for maximum SEO performance
+* Build and manage weekly **social media posts across all company channels**
+* Maintain content calendars and publishing schedules
+* Create segmented **email newsletter campaigns**
+* Design and execute **email list growth strategies**
+* Maintain and manage **email list hygiene in HubSpot**
+
+---
+
+# Organic Traffic Growth
+
+Vodigy Networks experienced significant growth in organic traffic.
+
+![Organic Traffic Growth](/mnt/data/18b6fef7-316f-4843-999e-54cca4a3b661.png)
+
+**Key Results**
+
+* **83% increase in organic traffic**
+* **100+ new users from organic search**
+* Improved engagement and event tracking
+* Growth across **Google Organic search traffic**
+
+---
+
+# Keyword Ranking Growth
+
+Keyword rankings steadily improved over the last 90 days.
+
+![Keyword Ranking Distribution](/mnt/data/fd546379-fbf6-4c7b-9133-430d86b97197.png)
+
+### Ranking Highlights
+
+Growth in high-value keyword rankings across positions:
+
+* **Top 3 Rankings**
+* **Top 4-10 Rankings**
+* **Top 11-20 Rankings**
+* Expanded visibility for competitive search terms
+
+This reflects improvements in:
+
+* SEO content strategy
+* On-page optimization
+* Technical SEO improvements
+* Internal linking structure
+
+---
+
+# Career Highlight – Boundless Immigration & RapidVisa
 
 **Role:** SEO Specialist
 **Duration:** April 1, 2016 – July 15, 2025
 
-### Achievements:
-- **100%+ Growth** RapidVisa increased in organic sessions over 4 years through targeted keyword strategies.
-- Launched content hubs and FAQ schema, increasing featured snippets and PAA appearances.
-- Led technical SEO cleanup that reduced crawl errors by **80%** and improved indexation.
-- Managed social media campaigns for **RapidVisa** and **Boundless Immigration**, boosting engagement and aligning posts with high-intent keyword content.
+### Achievements
+
+* Achieved **100%+ growth in organic sessions** through targeted SEO strategies
+* Built structured content hubs that increased **featured snippets and PAA visibility**
+* Implemented schema markup and FAQ structures to improve SERP presence
+* Led technical SEO cleanup reducing crawl errors by **80%**
+* Managed social media campaigns using **Sprout Social**
+* Coordinated cross-platform marketing campaigns aligned with SEO content strategy
 
 ---
 
-## Organic Keyword Growth – 2024
+# Let's Connect
 
-The chart below illustrates steady growth in high-value keywords:
+I’m open to **full-time roles, consulting, or collaboration opportunities** focused on SEO growth, content marketing, and organic acquisition.
 
-- **Fiance Visa**
-- **Spousal Visa**
-- **Green Card**
-
-![Organic Keywords Growth](organic_keywords_growth.png)
-
-> *Data source: Internal SEO tracking (Jan – Dec 2024)*
-
----
-
-## Let’s Connect
-
-I’m open to full-time roles, consulting, or collaboration opportunities to help brands grow through smart, sustainable SEO.
-
-📧 **Email:** [ulysisc@gmail.com]  
-🔗 **LinkedIn:** [Ulysis M. Cababan](https://www.linkedin.com/in/ulysis-cababan-81b99515)  
+📧 **Email:** [ulysis.cababan@gmail.com](mailto:ulysis.cababan@gmail.com)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ulysis-cababan-81b99515](https://www.linkedin.com/in/ulysis-cababan-81b99515)
 🌐 **Portfolio:** [https://page-bloom.b12sites.com/](https://page-bloom.b12sites.com/)
+
+---
