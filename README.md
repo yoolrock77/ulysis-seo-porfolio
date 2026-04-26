@@ -79,7 +79,7 @@ Currently supporting SEO, content marketing, and digital marketing strategy to i
 
 Vodigy Networks experienced significant growth in organic traffic.
 
-![Organic Traffic Growth](/mnt/data/18b6fef7-316f-4843-999e-54cca4a3b661.png)
+![Organic Traffic Growth](https://github.com/yoolrock77/ulysis-seo-porfolio/raw/refs/heads/main/vodigynetworks_organic.docx)
 
 **Key Results**
 
